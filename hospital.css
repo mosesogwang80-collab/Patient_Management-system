@@ -1,0 +1,13 @@
+:root{--primary:blue;--accent:teal;--bg:aliceblue;--card:white;--text:darkslategray}
+body{font-family:'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--text);margin:0}
+.card{background:rgba(255,255,255,0.85);border-radius:12px;box-shadow:0 4px 18px rgba(10,110,189,.08);padding:20px;margin:16px}
+h2{color:var(--primary)}
+button{background:var(--primary);color:white;border:none;padding:10px 16px;border-radius:8px;cursor:pointer}
+button:hover{background:darkblue}
+input,select{padding:10px;border:1px solid lightgray;border-radius:8px;width:100%;margin:6px 0}
+.analytics-grid p{margin:6px 0}
+a{color:var(--primary);text-decoration:none}
+header{background:linear-gradient(90deg,blue,teal);color:white;padding:16px}
+.btn{display:inline-block;background:steelblue;color:white;padding:10px 16px;border-radius:8px;margin:4px;text-decoration:none}
+a[href="logout.php"]{color:red !important;}
+.container{background:rgba(255,255,255,0.7);border-radius:8px;padding:20px;}

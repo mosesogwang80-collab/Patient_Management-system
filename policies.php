@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Policies</title><link rel="stylesheet" href="hospital.css"></head><body><div class="container" style="max-width:800px;margin:40px auto;padding:30px;background:white;border-radius:12px;"><h2>Policies</h2><p>Hospital policies and procedures.</p><a class="btn" href="ceo_dashboard.php">Back</a></div></body></html>
